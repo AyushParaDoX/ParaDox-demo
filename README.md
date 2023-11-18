@@ -1,4 +1,4 @@
 # ParaDox-demo
-<p>Hi this is my first Respository</p>
+<p>Hi this is my first Respository.</p>
 <hr>
-Author/Coder - Ayush
+<b>Author/Coder - Ayush</b> 
